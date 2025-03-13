@@ -1,5 +1,7 @@
 # DAWN
 
+참고 블로그 - https://velog.io/@singery00/UE5-Unreal-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Git-Github-%EC%97%B0%EB%8F%99<br>
+
 ### 프로그램 설치
 1. Git & LFS
 https://git-scm.com/downloads<br>
@@ -8,3 +10,5 @@ https://git-scm.com/downloads<br>
 <br>
 2. Github Desktop
 https://desktop.github.com/download/<br>
+
+### 언리얼 에디터 설정
