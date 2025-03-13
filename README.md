@@ -7,4 +7,3 @@ https://desktop.github.com/download/
 <br>
 2. Git & LFS
 https://git-scm.com/downloads
----
