@@ -11,5 +11,3 @@ https://git-scm.com/downloads<br>
 2. Github Desktop
 https://desktop.github.com/download/<br>
 <hr>
-### 언리얼 에디터 설정
-Edit -> Plugins -> Git 검색 후 설치 -> 재시작<br>
